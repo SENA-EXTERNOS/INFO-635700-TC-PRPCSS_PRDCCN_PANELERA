@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Información de programa. Técnico. Procesos de producción panelera**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO-635700-TC-PRPCSS_PRDCCN_PANELERA/](https://sena-externos.github.io/INFO-635700-TC-PRPCSS_PRDCCN_PANELERA/)
 
 #
